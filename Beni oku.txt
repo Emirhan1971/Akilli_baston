@@ -1,0 +1,1 @@
+Bu proje de görme engelliler için hazırlanan akıllı baston projesinin kodları ve devre şeması var
